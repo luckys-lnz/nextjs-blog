@@ -31,10 +31,6 @@ export default function Home({ allPostsData}) {
           I am Adept at collaborating with cross-functional teams to deliver
           high-quality software solutions.
           Say hi on <a href="https://twitter.com/luckystech">Twitter</a></p>
-        <p>
-          (This is a sample website - you’ll be building a site like this in{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
